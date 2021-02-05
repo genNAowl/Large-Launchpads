@@ -1,0 +1,20 @@
+{
+	"name": "Large Launch Pad",
+	"description": "A larger launch pad",
+	"health": -1, //automatically calculated
+	"size": 4,
+	"buildVisibility": "campaignOnly",
+	"research": "launch-pad",
+	"requirements": [
+		{ "item": "lead", "amount": 400 },
+		{ "item": "titanium", "amount": 400 },
+		{ "item": "silicon", "amount": 300 },
+		{ "item": "plastanium", "amount": 200 },
+	],
+	"itemCapacity": 500,
+	"launchTime": 2100,
+	"category": "effect",
+	"consumes": {
+		"power": 6,
+	}
+}

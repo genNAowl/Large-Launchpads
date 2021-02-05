@@ -1,0 +1,6 @@
+name: "large-launchpads"
+displayName: "Large Launchpads" //what displays in the mod selection menu
+author: "genNAowl"
+description: "Adds a VozDuh's launchpad"
+version: "1.0"
+minGameVersion: "105"
