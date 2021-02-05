@@ -1,3 +1,5 @@
 # Larger Launchpads
 
-Adds a VozDuh's launchpad
+![launchpad](https://github.com/genNAowl/Large-Launchpads/blob/main/sprites-override/blocks/launch-pad-large-full.png)
+
+Adds VozDuh's launchpad
